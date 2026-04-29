@@ -1,3 +1,5 @@
+Archived repository, moved to [cis-5800-oms-2](https://github.com/camzillajs101/cis-5800-oms-2)
+
 # cis-5800-oms
 Order Management System for a fictional online store. CIS 5800 capstone project.
 
